@@ -1,14 +1,15 @@
 # GITutorial
 
-- git init
+## Befehle
+- `git init`
 "eröffnet das repo"
 
-- git add
+- `git add`
 "fügt dateien zum commit hinzu"
 
-- git commit -m
+- `git commit -m "text" `
 "comittet die Datei"
 
-- git status
+- `git status`
 "überprüft den Status"
 
