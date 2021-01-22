@@ -1,0 +1,1 @@
+- git status: erfragt status der Verbindung zwischen Repository und Ordner
